@@ -5,7 +5,7 @@ Official PyTorch implementation of the ICCV - Beyond Euclidean 2025 paper [Flatl
 By [Youssef Wally](https://scholar.google.com/citations?user=tlZ4sG0AAAAJ&hl=en&oi=ao), [Johan Mylius-Kroken](-), [Michael Kampffmeyer](https://scholar.google.com/citations?user=9lDh2UgAAAAJ&hl=en&oi=ao), [Rezvan Ehsani](-), [Vladan Milosevic](https://scholar.google.com/citations?user=BCilR1AAAAAJ&hl=en&oi=ao), [Elisabeth Wetzer](https://scholar.google.com/citations?user=qSc3kA8AAAAJ&hl=en&oi=ao)
 
 <p align="center">
-<img src="combined_UMAP.png"
+<img src="Images/combined_UMAP.png"
      alt="Overview" width="80%";" />
 </p>
 
@@ -66,7 +66,7 @@ representations with labels at level 1, (c) Euclidean representations with label
 level 3.
 
 <p align="center">
-<img src="combined_IMC_confm.png"
+<img src="Images/combined_IMC_confm.png"
      alt="Overview" width="80%";" />
 </p>
 
@@ -77,14 +77,14 @@ In this experiment, we leverage the kNN Classifier to Calculate the McNemar Test
 Figure 2: McNemar test between the Euclidean model and Lorentz model predictions on IMC dataset.
 
 <p align="center">
-<img src="combined_IMC_mcnemar.png"
+<img src="Images/combined_IMC_mcnemar.png"
      alt="Overview" width="80%";" />
 </p>
 
 Figure 3: McNemar test between the Euclidean model and Lorentz model predictions on MNIST dataset.
 
 <p align="center">
-<img src="MNIST_McNemar_Test.png"
+<img src="Images/MNIST_McNemar_Test.png"
      alt="Overview" width="30%";" />
 </p>
 

@@ -14,3 +14,4 @@
 *.m
 *.gz
 *.html
+.DS_Store

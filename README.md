@@ -94,7 +94,7 @@ Figure 3: McNemar test between the Euclidean model and Lorentz model predictions
 
 - Python>=3.8
 
-   We recommend using [Anaconda](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/index.html):
+   We recommend using [Anaconda](https://www.anaconda.com/docs/getting-started/anaconda/install):
 
    ```bash
    conda create -n FlatlandAndBeyond python=3.8 pip

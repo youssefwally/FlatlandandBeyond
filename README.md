@@ -110,4 +110,4 @@ Figure 3: McNemar test between the Euclidean model and Lorentz model predictions
 
 ## Usage
 
-You can follow the steps in the [Example](https://github.com/youssefwally/FlatlandandBeyond/blob/main/Notebooks/examples.ipynb).
+You can follow the steps in the [Example](https://github.com/youssefwally/FlatlandandBeyond/blob/main/GeometriclyAgnosticEvaluation/Notebooks/examples.ipynb).

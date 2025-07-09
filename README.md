@@ -38,7 +38,14 @@ This code is released under the [MIT License](LICENSE).
 If you find our work useful for your research, please cite our paper as follows:
 
 ```bibtex
-PENDING
+@inproceedings{
+wally2025flatland,
+title={Flatland and Beyond: Mutual Information Across Geometries},
+author={Youssef Wally and Johan Mylius-Kroken and Michael Kampffmeyer and Rezvan Ehsani and Vladan Milosevic and Elisabeth Wetzer},
+booktitle={2nd Beyond Euclidean Workshop: Hyperbolic and Hyperspherical Learning for Computer Vision},
+year={2025},
+url={https://openreview.net/forum?id=LX9bskkzH2}
+}
 ```
 
 ## Results

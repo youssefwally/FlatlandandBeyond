@@ -1,6 +1,6 @@
 # Geometry Agnostic Evaluation Metrics - ICCV - Beyond Euclidean 2025
 
-Official PyTorch implementation of the ICCV - Beyond Euclidean 2025 paper [Flatland and Beyond: Mutual Information Across Geometries]([https://openreview.net/](https://openreview.net/forum?id=LX9bskkzH2#discussion)).
+Official PyTorch implementation of the ICCV - Beyond Euclidean 2025 paper [Flatland and Beyond: Mutual Information Across Geometries](https://openreview.net/forum?id=LX9bskkzH2#discussion).
 
 By [Youssef Wally](https://scholar.google.com/citations?user=tlZ4sG0AAAAJ&hl=en&oi=ao), [Johan Mylius-Kroken](https://scholar.google.com/citations?user=_l8mu6UAAAAJ&hl=en&oi=ao), [Michael Kampffmeyer](https://scholar.google.com/citations?user=9lDh2UgAAAAJ&hl=en&oi=ao), [Rezvan Ehsani](https://scholar.google.com/citations?user=1BhYtu0AAAAJ&hl=en&oi=ao), [Vladan Milosevic](https://scholar.google.com/citations?user=BCilR1AAAAAJ&hl=en&oi=ao), [Elisabeth Wetzer](https://scholar.google.com/citations?user=qSc3kA8AAAAJ&hl=en&oi=ao)
 
